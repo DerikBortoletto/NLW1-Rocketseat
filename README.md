@@ -2,6 +2,7 @@
 Projeto desenvolvido durante a Next Level Week 01 da Rocketseat
 
 <h1> Ecoleta </h1>
-![](/Cape.png)
+
+![Ecoleta](/Cape.png)
 
 Tecnologias Utilizadas
