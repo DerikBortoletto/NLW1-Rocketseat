@@ -6,9 +6,9 @@
   
   <h3>Tecnologias Utilizadas (FullStack)</h3>
   <p>
-    Linguagem: Typescript
-    Back-End(APIRESTful): NodeJS, express, celebrate, sqlite
-    Front-End: ReactJS
+    Linguagem: Typescript<br/>
+    Back-End(APIRESTful): NodeJS, express, celebrate, sqlite<br/>
+    Front-End: ReactJS<br/>
     Mobile: React Native - expo
 </div>
 
